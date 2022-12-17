@@ -4,4 +4,4 @@
 <p align="center"> IT'S A PLANE? NO!</p>
 <p align="center"> IT'S</p>
 
-![](/docs/gms.png | width=100)
+<img src="/docs/gms.png" width="150" height="280">
