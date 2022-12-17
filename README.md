@@ -4,4 +4,4 @@
 <p align="center"> IT'S A PLANE? NO!</p>
 <p align="center"> IT'S</p>
 
-<img src="/docs/gms.png" width="150" height="280">
+<p align="center"><img src="/docs/gms.png" width="250" height="250"></p>
