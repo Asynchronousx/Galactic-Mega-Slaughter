@@ -24,7 +24,7 @@ The goal of this project was basically creating a virtual 3D interactive environ
 - **Raycasting and Picking** 
 - **Collision Detecting**
 - **File reading**
-- 
+
 and more.
 
 # Requirements
