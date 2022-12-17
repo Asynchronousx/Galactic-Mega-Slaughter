@@ -13,7 +13,7 @@ A simple FPS game made with **OpenGL** from scratch, entirely made with C++ for 
 The goal of this project was basically creating a virtual 3D interactive environment. This game presents some features:
 
 - **Animations**
-- **Multitexturing **
+- **Multitexturing**
 - **Object istantation** (could render over 100+ object in the scene) 
 - **Raycasting and Picking** 
 - **Collision Detecting**
