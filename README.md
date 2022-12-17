@@ -31,8 +31,8 @@ and more.
 The only requirement to build this project is VS2022. This due to the developing done entirely using Visual Studio 2022 Community edition, so if you want to build it from scratch you need that exact version or you'll have some trouble compiling it. 
 
 # Release
-If you want to try to build it by yourself, you can find the Binary release [Here].(https://pages.github.com/).
-Otherwise, you can download an .exe file [Here].(https://pages.github.com/).
+If you want to try to build it by yourself, you can find the Binary release [Here](https://pages.github.com/).
+Otherwise, you can download an .exe file [Here](https://pages.github.com/).
 
 # Resources
 The resources used in this project are entirely copyright free. Special Thanks to https://www.youtube.com/@WhiteBatAudio for the OST of the game.
