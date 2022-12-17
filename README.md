@@ -4,4 +4,4 @@
 <p align="center"> IT'S A PLANE? NO!</p>
 <p align="center"> IT'S</p>
 
-![Alt text](/docs/gms.png "Title" = 250x250)
+![](/docs/gms.png = 250x250)
