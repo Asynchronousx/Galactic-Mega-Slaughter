@@ -33,6 +33,5 @@ The only requirement to build this project is VS2022. This due to the developing
 # Release
 If you want to try to build it by yourself or download the exe file directly, you can either find the Binary release or the exe [Here](https://github.com/Asynchronousx/Galactic-Mega-Slaughter/releases).
 
-
 # Resources
 The resources used in this project are entirely copyright free. Special Thanks to https://www.youtube.com/@WhiteBatAudio for the OST of the game.
