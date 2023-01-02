@@ -10,7 +10,7 @@
 ## Brief
 
 ## Long
-Since it's probably the best practice not loading a 5 minute gif on github, here's a longer video hosted on YouTube: https://www.youtube.com/watch?v=8HahQ3W91qw
+Since it's probably the best practice not loading a 5 minute gif on github, here's a longer video hosted on Reddit: https://www.reddit.com/r/opengl/comments/zlpxlx/legacy_opengl_quite_satisfied_with_how_this/
 
 # Galactic Mega Slaughter
 
