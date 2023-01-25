@@ -14,7 +14,7 @@ Since it's probably the best practice not loading a 5 minute gif on github, here
 
 # Galactic Mega Slaughter
 
-A simple FPS game made with **OpenGL** from scratch, entirely made with C++ for my Computer Graphic academical project. Strongly inspired by **DOOM-like** fps, this is my first ever custom 3D engine written using low level graphical libraries (and more specifically using ONLY **Legacy/FreeGlut**), so i tried to mantain things as simple as possible, while mantaining a decent level of enginering for the various game modules following SOLID principles.
+A simple FPS game made with **OpenGL** from scratch, entirely made with C++ for my Computer Graphic academical project in ** under 5000 lines of code**. Strongly inspired by **DOOM-like** fps, this is my first ever custom 3D engine written using low level graphical libraries (and more specifically using ONLY **Legacy/FreeGlut**), so i tried to mantain things as simple as possible, while mantaining a decent level of enginering for the various game modules following SOLID principles.
 
 The goal of this project was basically creating a virtual 3D interactive environment. This game presents some features:
 
