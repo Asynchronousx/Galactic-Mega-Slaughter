@@ -6,9 +6,6 @@
 
 <p align="center"><img src="/docs/gms.png" width="512" height="250"></p>
 
-# Gameplay 
-## Brief
-
 ## Long
 Since it's probably the best practice not loading a 5 minute gif on github, here's a longer video hosted on Reddit: https://www.reddit.com/r/opengl/comments/zlpxlx/legacy_opengl_quite_satisfied_with_how_this/
 
